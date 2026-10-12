@@ -26,3 +26,5 @@ When the tank reaches its maximum level, the solenoid valve closes instantly, st
 - Electromechanical control  
 - Solenoid valve actuation  
 - System troubleshooting and optimization
+
+![Image](Images/IMG_Watertank.jpg)
