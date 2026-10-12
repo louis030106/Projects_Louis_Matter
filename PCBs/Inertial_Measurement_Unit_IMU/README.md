@@ -34,7 +34,7 @@ The objective was to design a tailored IMU sensor board from the ground up to me
 | **Engineering** | Datasheet Analysis, Component Selection, Circuit Design |
 | **Protocols & Interfaces** | I2C, SPI, Power Management |
 
-![Image](pcbIMU2.png)
+![Image](Images/pcbIMU2.png)
 
 ---
 
