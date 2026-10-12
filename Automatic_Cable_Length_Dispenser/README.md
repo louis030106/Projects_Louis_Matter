@@ -1,29 +1,43 @@
-# Automatic Cable Length Dispenser
+# 🔌 Automatic Cable Length Dispenser
 
-## Objective
-Automate the process of unwinding and cutting cables to a precise, predefined length, and repeat the operation as many times as needed.
+## 🎯 Objective
+Automate the process of unwinding and cutting cables to a predefined length, with the ability to repeat the cycle as needed.
 
-## Problem
+---
+
+## ⚠️ Problem
 Manual cable cutting is slow, inconsistent, and prone to measurement errors, especially when producing multiple identical pieces.
 
-## Developed Solution
+---
+
+## 💡 Solution
 I designed a system that:
-- allows the user to set a target length using physical buttons,
-- automatically unwinds the cable to the exact length,
-- repeats the process reliably,
-- ensures consistent results every time.
+* Allows the user to set a target length using physical buttons.
+* Automatically unwinds the cable to the exact requested length.
+* Uses an electronic motor control and a length-measurement sensor.
+* Repeats the operation reliably for series of cables.
 
-The system uses a motor with electronic control and a length‑measurement sensor.
+---
 
-## Results
-- Perfectly repeatable cable lengths.
-- Significant time savings.
-- Elimination of human measurement errors.
-- Ideal for producing series of identical cable segments.
+## 📈 Results
+* Consistent and repeatable cable lengths.
+* Significant time saved on batch tasks.
+* Elimination of human measurement errors.
+* Practical setup for producing identical cable segments.
 
-## Skills Demonstrated
-- Motor control  
-- User interface design (buttons, display)  
-- Automated length measurement  
-- Mechanical + electronic system integration  
-- Development of repeatable industrial processes
+---
+
+## 🛠️ Skills Demonstrated
+* Motor control
+* User interface design (buttons and display)
+* Automated length measurement
+* Mechanical and electronic system integration
+* Development of repeatable processes
+
+---
+
+## 📷 System Preview
+
+<p align="center">
+  <img src="Images/IMG_CableDispenser.jpg" alt="Automatic Cable Length Dispenser" width="700">
+</p>
