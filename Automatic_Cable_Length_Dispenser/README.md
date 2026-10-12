@@ -39,5 +39,5 @@ I designed a system that:
 ## 📷 System Preview
 
 <p align="center">
-  <img src="Images/IMG_CableDispenser.jpg" alt="Automatic Cable Length Dispenser" width="700">
+  <img src="Images/IMG_Cable.jpg" alt="Automatic Cable Length Dispenser" width="700">
 </p>
